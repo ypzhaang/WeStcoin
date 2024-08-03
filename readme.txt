@@ -10,7 +10,7 @@ to run WeStcoin
 (need to caculate class distribution of each dataset in caculate.py)
 
 4.show.py
-to get figure3 in paper
+to get figures in paper
 
 5.show2.py
-to get figure4 in paper
+to get figures in paper
