@@ -1,3 +1,6 @@
+// Note that we removed the data files used in our paper due to the size. All datasets can be publicly available. Referring our paper for more details.
+// These codes are for "Weakly Supervised Text Classification Framework for Noisy-labeled Imbalanced Samples, Wenxin Zhang, Yaya Zhou, Shuhui Liu, Yupei Zhang and Xuequn Shang."
+
 run code step：
 1.transfer_label.py 
 to Introduce indeterminate labels of different ranges
